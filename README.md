@@ -1,5 +1,26 @@
 # Comp702-Project.-
 
+IMPORTANT STEPS: 
+
+To run this code is through usage of the file called "main" function that has main method to run the file just execeute the file and other libraries may need to be installed to be able to make it run well.
+As the main fuction it will show each image and what it is the predicted label and to skeep must press enter after the method the KNN will run automatical and show reuslts.
+I have to reduce the image size to add them to GitHub and that may tweek a bit in accuracy.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 COMP702 – Image Processing and Computer Vision
  
